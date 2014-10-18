@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+	• git directory is made and populated with git stuff
+	• NO initial commit is made automatically – got to do it "manually"
+	• Need to do it to tell git, that this directory is ought to be teken care of by (g)it ...
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	• Staging area is not a directory but rather a status-overview and preview.
+	• It shows the status of files in the woking directory, wether or not thy are "tracked", what is going to be commited ...
